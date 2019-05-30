@@ -46,5 +46,15 @@ func main() {
 	// )
 	// fmt.Println(a,b,c,d,e,f,g,h,i)
 
+    const(
+        q = 2
+        w
+        t
+        y
+    )
+    fmt.Println(q)
+    fmt.Println(q)
+    fmt.Println(t)
+    fmt.Println(y)
 
 }
